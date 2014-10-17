@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nkv:home|Door43 (nkv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nkv|d43-nkv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nkv/archive/master.zip|d43-nkv.zip]]
+
+**Recent Changes**
+{{changes>ns = nkv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nkv|Ethnologue data]]
+
